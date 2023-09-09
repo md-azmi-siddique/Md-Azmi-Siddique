@@ -44,7 +44,6 @@
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-size: cover;
-    
 }
 
 
@@ -87,10 +86,11 @@
 }
 
 .skill-heading{
+    padding-top: 60px;
     text-align: center;
     font-size: 100px;
-    color: paleturquoise;
-    margin-top: 0px;
+    color: black;
+    margin-top: 5px;
     font-family: 'Roboto', sans-serif;
     font-family: 'Roboto Mono', monospace;
     font-family: 'Roboto Slab', serif;
@@ -99,6 +99,13 @@
 .card-body{
     text-align: center;
 }
+
+.box{
+    width: 100px;
+    height: 100px;
+    margin-left: 70px;
+}
+
 .card:hover{
-    background-color: yellowgreen;
+    background-color: aquamarine;
 }
