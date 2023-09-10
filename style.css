@@ -131,7 +131,7 @@
 }
 
 .card-project{
-    margin-bottom: 50px;
+    margin-bottom: 20px;
 }
 
 .service-box{
@@ -148,10 +148,10 @@
     margin-top: 10px;
 }
 
-
-
-
-
 .card-hover:hover{
     background-color: aquamarine;
+}
+
+.foot{
+    text-align: center;
 }
